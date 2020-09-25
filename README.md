@@ -1,3 +1,9 @@
+<!-- 
+För att kunna köra bloggsidan:
+Installera först Gatsby genom att skriva "npm i gatsby-source-filesystem" i terminalfönstret
+En server för sidan kan sedan startas med kommandoraden "gatsby develop" i terminalfönstret
+ -->
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
